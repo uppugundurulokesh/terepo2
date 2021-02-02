@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '""\x1b[DMytest"'
-copyright = '2021, ""\x1b[Deswar"'
-author = '""\x1b[Deswar"'
+project = "hellotest"
+copyright = '2021,e'
+author = 'Deswar'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
