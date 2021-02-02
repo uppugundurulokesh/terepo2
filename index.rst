@@ -3,12 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ""[DMytest"'s documentation!
+Welcome to "DMytest"'s documentation!
 ========================================
 
 .. toctree::
    :maxdepth: 2
    :numbered:
+   
+   
+   project.md
 
 
 
