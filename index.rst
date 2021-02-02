@@ -10,7 +10,6 @@ Welcome to "DMytest"'s documentation!
    :maxdepth: 2
    :numbered:
    
-   
    project.md
 
 
